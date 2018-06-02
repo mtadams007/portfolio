@@ -5,4 +5,10 @@
 
 .card {
   margin: 25px;
+  box-shadow: 2px 2px #eee;
+}
+
+.blog-footer {
+  background-color: #eee;
+  padding: 25px;
 }
